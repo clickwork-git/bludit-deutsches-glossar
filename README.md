@@ -1,2 +1,4 @@
 # bludit-deutsches-glossar
-Verzeichnis deutscher Bergiffe
+Verzeichnis deutscher Bergiffe (und ihrer Schreibweise)
+
+JavaScript
