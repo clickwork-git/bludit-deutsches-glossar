@@ -5,4 +5,5 @@ In den Texten wird "du" (kleingeschrieben) verwendet.
 
 JavaScript
 
+enable aktivieren
 root Stammverzeichnis
