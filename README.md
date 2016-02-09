@@ -5,5 +5,8 @@ In den Texten wird "du" (kleingeschrieben) verwendet.
 
 JavaScript
 
-enable aktivieren
-root Stammverzeichnis
+Englisch | Deutsch
+------------ | -------------
+admin panel|Administrationsbereich
+enable|aktivieren
+root|Stammverzeichnis
