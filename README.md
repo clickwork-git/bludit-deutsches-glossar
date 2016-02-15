@@ -10,3 +10,7 @@ Englisch | Deutsch
 admin panel|Administrationsbereich
 enable|aktivieren
 root|Stammverzeichnis
+
+Deutschland | Schweiz
+-----------|-----------
+Fußbereich | Fussbereich
