@@ -16,3 +16,9 @@ user|Benutzer
 Deutschland | Schweiz
 -----------|-----------
 Fußbereich | Fussbereich
+Schließen | Schliessen
+Standardmäßig | Standardmässig
+
+## Offene Fragen
+
+Nickname: Nickname oder Spitzname?
